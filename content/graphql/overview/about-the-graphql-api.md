@@ -54,4 +54,4 @@ For other information, such as authentication and rate limit details, check out 
 
 ## Requesting support
 
-{% data reusables.support.help_resources %}
+ *{% data reusables.support.help_resources %}
